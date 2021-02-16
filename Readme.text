@@ -1,0 +1,26 @@
+Wichtigste Komandos:
+
+virtuelle Umgebung erstellen:
+  python3 -m venv myvenv
+
+virtuelle Umgebung starten:
+  source myvenv/bin/activate
+
+Ordner erstellen:
+  mkdir ORDNERNAME
+
+In welchem Ordner befinde ich mich gerade?:
+  pwd
+
+Datei löschen:
+  rm DATEINAME
+
+Ordner löschen:
+  rm -r ORDNERNAME
+
+Hilfe für Komando aufrufen:
+  man ls
+
+Server starten:
+  python manage.py runserver
+  (Den Server findet man unter: http://127.0.0.1:8000/)
